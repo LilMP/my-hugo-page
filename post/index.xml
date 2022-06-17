@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on LilMP&#39;s blog</title>
-    <link>http://example.org/post/</link>
+    <link>https://lilmp.com/post/</link>
     <description>Recent content in Posts on LilMP&#39;s blog</description>
     <image>
-      <url>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://lilmp.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://lilmp.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jun 2022 21:35:50 +0800</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Jun 2022 21:35:50 +0800</lastBuildDate><atom:link href="https://lilmp.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>內嵌運動紀錄到部落格中</title>
-      <link>http://example.org/post/tech/embed-strava-and-garmin-to-blog/embed-strava-and-garmin-to-blog/</link>
+      <link>https://lilmp.com/post/tech/embed-strava-and-garmin-to-blog/embed-strava-and-garmin-to-blog/</link>
       <pubDate>Mon, 13 Jun 2022 21:35:50 +0800</pubDate>
       
-      <guid>http://example.org/post/tech/embed-strava-and-garmin-to-blog/embed-strava-and-garmin-to-blog/</guid>
+      <guid>https://lilmp.com/post/tech/embed-strava-and-garmin-to-blog/embed-strava-and-garmin-to-blog/</guid>
       <description>研究了一下如何把 garmin connect / strava 上的運動紀錄內嵌到部落格中 Strava https://support.strava.com/hc/en-us/articles/216918527-Share-your-activities-with-a-Strava-Widget?page=2 從strava網站上 使用 iframe 並以 rawhtml 的 shortcodes 來處理 程式碼 {{%-rawhtml-%}} &amp;lt;iframe height=&amp;#39;454&amp;#39; width=&amp;#39;300&amp;#39; frameborder=&amp;#39;0&amp;#39; allowtransparency=&amp;#39;true&amp;#39; scrolling=&amp;#39;no&amp;#39; src=&amp;#39;https://www.strava.com/athletes/34128612/latest-rides/f672808af3343beece46ac192ff9a69e41e3d6cd&amp;#39;&amp;gt;&amp;lt;/iframe&amp;gt; {{%-rawhtml-%}} 呈現效果 Garmin Connect 呈現效果</description>
     </item>
     
     <item>
       <title>Imgur Linebot</title>
-      <link>http://example.org/post/tech/imgur-linebot/</link>
+      <link>https://lilmp.com/post/tech/imgur-linebot/</link>
       <pubDate>Thu, 09 Jun 2022 12:42:30 +0800</pubDate>
       
-      <guid>http://example.org/post/tech/imgur-linebot/</guid>
+      <guid>https://lilmp.com/post/tech/imgur-linebot/</guid>
       <description>asdfwefsdfwf asdfwefsdfwf asdfwefsdfwf asdfwefsdfwf asdfwefsdfwf asdfwefsdfwf asdfwefsdfwf asdfwefsdfwf asdfwefsdfwf asdfwefsdfwf asdfwefsdfwf asdfwefsdfwf asdfwefsdfwf</description>
     </item>
     
     <item>
       <title>萩坂饅頭</title>
-      <link>http://example.org/post/mountains/%E8%90%A9%E5%9D%82%E9%A5%85%E9%A0%AD/</link>
+      <link>https://lilmp.com/post/mountains/%E8%90%A9%E5%9D%82%E9%A5%85%E9%A0%AD/</link>
       <pubDate>Thu, 09 Jun 2022 10:46:01 +0800</pubDate>
       
-      <guid>http://example.org/post/mountains/%E8%90%A9%E5%9D%82%E9%A5%85%E9%A0%AD/</guid>
+      <guid>https://lilmp.com/post/mountains/%E8%90%A9%E5%9D%82%E9%A5%85%E9%A0%AD/</guid>
       <description>寫這篇是想從一個探勘新手的角度，分享自己跟隨前輩們的腳步，紀錄探勘小白我爬山發生的經過、感想、心境、也作為成長過程的紀錄，另外作為動態攝影擔當(咦?)也小小分享一些圖像/影片記錄。</description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>小M平 on LilMP&#39;s blog</title>
-    <link>http://example.org/tags/%E5%B0%8Fm%E5%B9%B3/</link>
+    <link>https://lilmp.com/tags/%E5%B0%8Fm%E5%B9%B3/</link>
     <description>Recent content in 小M平 on LilMP&#39;s blog</description>
     <image>
-      <url>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://lilmp.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://lilmp.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jun 2022 10:46:01 +0800</lastBuildDate><atom:link href="http://example.org/tags/%E5%B0%8Fm%E5%B9%B3/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Jun 2022 10:46:01 +0800</lastBuildDate><atom:link href="https://lilmp.com/tags/%E5%B0%8Fm%E5%B9%B3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>萩坂饅頭</title>
-      <link>http://example.org/post/mountains/%E8%90%A9%E5%9D%82%E9%A5%85%E9%A0%AD/</link>
+      <link>https://lilmp.com/post/mountains/%E8%90%A9%E5%9D%82%E9%A5%85%E9%A0%AD/</link>
       <pubDate>Thu, 09 Jun 2022 10:46:01 +0800</pubDate>
       
-      <guid>http://example.org/post/mountains/%E8%90%A9%E5%9D%82%E9%A5%85%E9%A0%AD/</guid>
+      <guid>https://lilmp.com/post/mountains/%E8%90%A9%E5%9D%82%E9%A5%85%E9%A0%AD/</guid>
       <description>寫這篇是想從一個探勘新手的角度，分享自己跟隨前輩們的腳步，紀錄探勘小白我爬山發生的經過、感想、心境、也作為成長過程的紀錄，另外作為動態攝影擔當(咦?)也小小分享一些圖像/影片記錄。</description>
     </item>
     
