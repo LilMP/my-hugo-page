@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on LilMP&#39;s blog</title>
+    <link>http://example.org/projects/</link>
+    <description>Recent content in Projects on LilMP&#39;s blog</description>
+    <image>
+      <url>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Jun 2022 05:51:54 +0800</lastBuildDate><atom:link href="http://example.org/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Detail</title>
+      <link>http://example.org/projects/pace42.195/detail/</link>
+      <pubDate>Sun, 12 Jun 2022 05:51:54 +0800</pubDate>
+      
+      <guid>http://example.org/projects/pace42.195/detail/</guid>
+      <description>asdf</description>
+    </item>
+    
+    <item>
+      <title>Imgur Linebot</title>
+      <link>http://example.org/projects/imgur-linebot/imgur-linebot/</link>
+      <pubDate>Sun, 12 Jun 2022 05:49:57 +0800</pubDate>
+      
+      <guid>http://example.org/projects/imgur-linebot/imgur-linebot/</guid>
+      <description>asdf</description>
+    </item>
+    
+    <item>
+      <title>Pace42.195</title>
+      <link>http://example.org/projects/pace42.195/pace42.195/</link>
+      <pubDate>Sun, 12 Jun 2022 05:49:07 +0800</pubDate>
+      
+      <guid>http://example.org/projects/pace42.195/pace42.195/</guid>
+      <description>asdfwe</description>
+    </item>
+    
+  </channel>
+</rss>

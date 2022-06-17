@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>garmin on LilMP&#39;s blog</title>
+    <link>http://example.org/tags/garmin/</link>
+    <description>Recent content in garmin on LilMP&#39;s blog</description>
+    <image>
+      <url>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Jun 2022 21:35:50 +0800</lastBuildDate><atom:link href="http://example.org/tags/garmin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>內嵌運動紀錄到部落格中</title>
+      <link>http://example.org/post/tech/embed-strava-and-garmin-to-blog/embed-strava-and-garmin-to-blog/</link>
+      <pubDate>Mon, 13 Jun 2022 21:35:50 +0800</pubDate>
+      
+      <guid>http://example.org/post/tech/embed-strava-and-garmin-to-blog/embed-strava-and-garmin-to-blog/</guid>
+      <description>研究了一下如何把 garmin connect / strava 上的運動紀錄內嵌到部落格中 Strava https://support.strava.com/hc/en-us/articles/216918527-Share-your-activities-with-a-Strava-Widget?page=2 從strava網站上 使用 iframe 並以 rawhtml 的 shortcodes 來處理 程式碼 {{%-rawhtml-%}} &amp;lt;iframe height=&amp;#39;454&amp;#39; width=&amp;#39;300&amp;#39; frameborder=&amp;#39;0&amp;#39; allowtransparency=&amp;#39;true&amp;#39; scrolling=&amp;#39;no&amp;#39; src=&amp;#39;https://www.strava.com/athletes/34128612/latest-rides/f672808af3343beece46ac192ff9a69e41e3d6cd&amp;#39;&amp;gt;&amp;lt;/iframe&amp;gt; {{%-rawhtml-%}} 呈現效果 Garmin Connect 呈現效果</description>
+    </item>
+    
+  </channel>
+</rss>
